@@ -166,3 +166,10 @@ This case illustrates how product management connects customer experience with t
 ## 11. See the working product
 View the Volty 1.0 screenshot walkthrough — five annotated screenshots showing a bilingual menu, a brand-based price-list journey, invoice and outstanding-statement PDF delivery, and selection between multiple customer firms.
 These are examples of visible product behavior; adoption and business impact metrics will be added when independently verified.
+
+
+## 12 Evidence: Usage and Adoption (April–October 2026)
+Across an internal reporting window of 1 April–5 October 2026, the bot recorded 4,541 sessions across 2,478 distinct phone numbers. 876 sessions (19.3%) used at least one recognized bot feature. Sessions using a feature rose from 106 in July to 179 in September (+68.9%), although the feature-use rate remained broadly stable.
+Most-used self-service journeys included price-list requests (421 sessions), outstanding/ledger access (271) and RFQs (163). These are feature-engagement counts, not verified successful transactions.
+Explore the evidence, charts, limitations and product insights →
+![Monthly feature usage](assets/monthly-feature-usage.png)
