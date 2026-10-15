@@ -173,3 +173,13 @@ Across an internal reporting window of 1 April–5 October 2026, the bot recorde
 Most-used self-service journeys included price-list requests (421 sessions), outstanding/ledger access (271) and RFQs (163). These are feature-engagement counts, not verified successful transactions.
 Explore the evidence, charts, limitations and product insights →
 ![Monthly feature usage](assets/monthly-feature-usage.png)
+
+## 13 Beyond Product Development: Launch and Adoption
+
+My ownership extended beyond defining and delivering the product. I also drove the customer-facing communication and internal enablement work required to encourage adoption.
+
+The go-to-market approach included a customer education asset introducing the bot's self-service capabilities, along with a structured 13-slide sales briefing covering functionality, customer segmentation, automation boundaries, and human handoffs.
+
+An important product decision was to differentiate routine automated requests from commercial discussions that required an account manager. This helped establish realistic customer expectations and preserve appropriate sales-team involvement.
+
+**[Read the Launch & Sales Enablement Case Study →](LAUNCH_AND_ENABLEMENT.md)**
