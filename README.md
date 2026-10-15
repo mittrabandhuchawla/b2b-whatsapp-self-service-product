@@ -162,3 +162,7 @@ The primary product challenge was not simply introducing AI into a messaging int
 It was designing a reliable customer journey across product discovery, account identification, commercial rules, transaction confirmation and operational handoffs.
 
 This case illustrates how product management connects customer experience with the realities of enterprise operations.
+
+## 11. See the working product
+View the Volty 1.0 screenshot walkthrough — five annotated screenshots showing a bilingual menu, a brand-based price-list journey, invoice and outstanding-statement PDF delivery, and selection between multiple customer firms.
+These are examples of visible product behavior; adoption and business impact metrics will be added when independently verified.
